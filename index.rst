@@ -27,3 +27,10 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    misc/multi-series/multi-series
    misc/feature-selection/feature-selection
    misc/housing/housing
+
+.. toctree::
+   :maxdepth: 4
+   :caption: Back to scalecast:  
+   :hidden:
+
+   https://scalecast.readthedocs.io/en/latest/
