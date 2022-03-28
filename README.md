@@ -1,13 +1,13 @@
 # scalecast-examples
-Example notebooks for scalecast. See [Read the docs]().  
+Example notebooks for scalecast. See [Read the docs](https://scalecast-examples.readthedocs.io/en/latest/).  
 
 The following examples are currently available:
-1. [misc/introduction](misc/introduction)
-2. [arima](arima)
-3. [lstm](lstm)
-4. [multivariate](multivariate)
-6. [misc/multi-series](misc/multi-series)
-5. [misc/housing](misc/housing)
+1. [misc/introduction](misc/introduction/introduction.ipynb)
+2. [arima](arima/arima.ipynb)
+3. [lstm](lstm/lstm.ipynb)
+4. [multivariate](multivariate/multivariate.ipynb)
+6. [misc/multi-series](misc/multi-series/multi-series.ipynb)
+5. [misc/housing](misc/housing/housing.ipynb)
 
 All others are a work in progress. Thank you for your patience.
 
