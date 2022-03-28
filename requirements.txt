@@ -1,0 +1,15 @@
+sphinx_rtd_theme
+autodocsumm
+myst_parser
+nbsphinx
+jinja2!=3.1.0
+pandoc
+sphinx
+sphinxcontrib-confluencebuilder
+sphinxcontrib-napoleon
+numpydoc
+pdflatex
+pyyaml
+ipywidgets
+scalecast
+tqdm
