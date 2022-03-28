@@ -8,6 +8,8 @@ Scalecast Example Notebooks
 
 Welcome to the scalecast example notebooks. These are roughly outlined by beginning with an introduction that attempts to overview most of what the package is capable of; showing individual notebooks that focus on a single model type from scalecast; and finishing with some auxilary examples, such as how to forecast many series in a loop, display results, and perform other periphery tasks that scalecast is capable of. Click the links on the sidebar to the left to get started! Please note, not all notebooks are ready. To contribute, email mikekeith52@gmail.com.
 
+Back to scalecast: https://scalecast.readthedocs.io/en/latest/  
+
 .. toctree::
    :maxdepth: 4
    :caption: Notebooks:  
