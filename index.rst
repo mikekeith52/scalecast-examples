@@ -22,6 +22,7 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    lstm/lstm
    multivariate/multivariate
    prophet/prophet
+   rnn/rnn
    silverkite/silverkite
    sklearn/sklearn
    misc/multi-series/multi-series
