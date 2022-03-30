@@ -2293,3 +2293,163 @@ WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\a
 The granularity of data is larger than daily. Ensure the daily events data match the timestamps
 
 
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_silverkite.py:2206: UserWarning:
+
+The granularity of data is larger than daily. Ensure the daily events data match the timestamps
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_simple_silverkite_helper.py:129: UserWarning:
+
+Requested holiday 'Easter Monday [England, Wales, Northern Ireland]' does not occur in the provided countries
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_silverkite.py:2206: UserWarning:
+
+The granularity of data is larger than daily. Ensure the daily events data match the timestamps
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_silverkite.py:2206: UserWarning:
+
+The granularity of data is larger than daily. Ensure the daily events data match the timestamps
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_simple_silverkite_helper.py:129: UserWarning:
+
+Requested holiday 'Easter Monday [England, Wales, Northern Ireland]' does not occur in the provided countries
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_silverkite.py:2206: UserWarning:
+
+The granularity of data is larger than daily. Ensure the daily events data match the timestamps
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:316: UserWarning:
+
+y_true contains 0. MAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:333: UserWarning:
+
+y_true contains 0. MedAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_silverkite.py:2206: UserWarning:
+
+The granularity of data is larger than daily. Ensure the daily events data match the timestamps
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:316: UserWarning:
+
+y_true contains 0. MAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:333: UserWarning:
+
+y_true contains 0. MedAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_simple_silverkite_helper.py:129: UserWarning:
+
+Requested holiday 'Easter Monday [England, Wales, Northern Ireland]' does not occur in the provided countries
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_silverkite.py:2206: UserWarning:
+
+The granularity of data is larger than daily. Ensure the daily events data match the timestamps
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:316: UserWarning:
+
+y_true contains 0. MAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:333: UserWarning:
+
+y_true contains 0. MedAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_silverkite.py:2206: UserWarning:
+
+The granularity of data is larger than daily. Ensure the daily events data match the timestamps
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:316: UserWarning:
+
+y_true contains 0. MAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:333: UserWarning:
+
+y_true contains 0. MedAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_simple_silverkite_helper.py:129: UserWarning:
+
+Requested holiday 'Easter Monday [England, Wales, Northern Ireland]' does not occur in the provided countries
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_silverkite.py:2206: UserWarning:
+
+The granularity of data is larger than daily. Ensure the daily events data match the timestamps
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:316: UserWarning:
+
+y_true contains 0. MAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:333: UserWarning:
+
+y_true contains 0. MedAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_silverkite.py:2206: UserWarning:
+
+The granularity of data is larger than daily. Ensure the daily events data match the timestamps
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:316: UserWarning:
+
+y_true contains 0. MAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:333: UserWarning:
+
+y_true contains 0. MedAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_simple_silverkite_helper.py:129: UserWarning:
+
+Requested holiday 'Easter Monday [England, Wales, Northern Ireland]' does not occur in the provided countries
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_silverkite.py:2206: UserWarning:
+
+The granularity of data is larger than daily. Ensure the daily events data match the timestamps
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:316: UserWarning:
+
+y_true contains 0. MAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:333: UserWarning:
+
+y_true contains 0. MedAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\algo\forecast\silverkite\forecast_silverkite.py:2206: UserWarning:
+
+The granularity of data is larger than daily. Ensure the daily events data match the timestamps
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:316: UserWarning:
+
+y_true contains 0. MAPE is undefined.
+
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\greykite\common\evaluation.py:333: UserWarning:
+
+y_true contains 0. MedAPE is undefined.
+
+
