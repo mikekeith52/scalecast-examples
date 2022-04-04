@@ -1,0 +1,186 @@
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\dask\dataframe\utils.py:14: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as tm
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:80: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:429: FutureWarning: After 0.13 initialization must be handled at model creation
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:80: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': None, 'use_boxcox': True}. error: initialization_method must be set when use_boxcox hasbeen set.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': None, 'use_boxcox': False}. error: initialization_method must be set when use_boxcox hasbeen set.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': None, 'use_boxcox': 'log'}. error: initialization_method must be set when use_boxcox hasbeen set.
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\dask\dataframe\utils.py:14: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as tm
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\graphics\tsaplots.py:353: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\graphics\tsaplots.py:353: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\dask\dataframe\utils.py:14: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
+  import pandas.util.testing as tm
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\graphics\tsaplots.py:353: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  FutureWarning,
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:C:\Users\uger7\Anaconda3\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+

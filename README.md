@@ -5,6 +5,7 @@ The following examples are currently available:
 1. [misc/introduction](misc/introduction/introduction.ipynb)
 2. [arima](arima/arima.ipynb)
 2. [combo](combo/combo.ipynb)
+3. [hwes](hwes/hwes.ipynb)
 3. [lstm](lstm/lstm.ipynb)
 4. [multivariate](multivariate/multivariate.ipynb)
 5. [rnn](rnn/rnn.ipynb)
