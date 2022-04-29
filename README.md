@@ -8,6 +8,7 @@ The following examples are currently available:
 3. [hwes](hwes/hwes.ipynb)
 3. [lstm](lstm/lstm.ipynb)
 4. [multivariate](multivariate/multivariate.ipynb)
+5. [prophet](prophet/prophet.ipynb)
 5. [rnn](rnn/rnn.ipynb)
 5. [silverkite](silverkite/silverkite.ipynb)
 6. [misc/multi-series](misc/multi-series/multi-series.ipynb)
