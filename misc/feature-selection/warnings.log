@@ -619,3 +619,56 @@ WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\seaborn\al
 WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\seaborn\algorithms.py:85: RankWarning: Polyfit may be poorly conditioned
   boot_dist.append(f(*sample, **func_kwargs))
 
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:root:could not evaluate the paramaters: {'n_estimators': 10000, 'max_depth': 2, 'max_features': 'log2', 'random_state': 20, 'Xvars': 'a', 'warm_start': True}. error: "None of [Index(['a'], dtype='object')] are in the [columns]"
+WARNING:root:could not evaluate the paramaters: {'n_estimators': 10000, 'max_depth': 2, 'max_features': 'log2', 'random_state': 20, 'Xvars': 'l', 'warm_start': True}. error: "None of [Index(['l'], dtype='object')] are in the [columns]"
+WARNING:root:could not evaluate the paramaters: {'n_estimators': 10000, 'max_depth': 2, 'max_features': 'log2', 'random_state': 20, 'Xvars': 'l', 'warm_start': True}. error: list index out of range
+WARNING:root:none of the keyword/value combos stored in the grid could be evaluated for the gbt model
+WARNING:root:could not evaluate the paramaters: {'n_estimators': 10000, 'max_depth': 2, 'max_features': 'log2', 'random_state': 20, 'Xvars': 'a', 'warm_start': True}. error: "None of [Index(['a'], dtype='object')] are in the [columns]"
+WARNING:root:could not evaluate the paramaters: {'n_estimators': 10000, 'max_depth': 2, 'max_features': 'log2', 'random_state': 20, 'Xvars': 'l', 'warm_start': True}. error: "None of [Index(['l'], dtype='object')] are in the [columns]"
+WARNING:root:could not evaluate the paramaters: {'n_estimators': 10000, 'max_depth': 2, 'max_features': 'log2', 'random_state': 20, 'Xvars': 'l', 'warm_start': True}. error: list index out of range
+WARNING:root:none of the keyword/value combos stored in the grid could be evaluated for the gbt model
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.Float64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
+WARNING:py.warnings:C:\Users\michaelkeith\Anaconda3\lib\site-packages\dask\dataframe\utils.py:369: FutureWarning: pandas.UInt64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
+  _numeric_index_types = (pd.Int64Index, pd.Float64Index, pd.UInt64Index)
+
