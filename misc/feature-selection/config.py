@@ -4,7 +4,7 @@ model_params = {
 }
 
 dynamic_tuning = False
-stop_at = 'auto'
+patience = 10
 
 grids = {
     'gbt':dict(
