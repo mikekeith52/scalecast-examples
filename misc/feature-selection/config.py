@@ -4,20 +4,18 @@ model_params = {
 }
 
 dynamic_tuning = False
-patience = 10
+stop_at = 100
 
 grids = {
     'gbt':dict(
-        n_estimators=[10000],
-        max_depth=[2],
-        max_features=['log2'],
+        n_estimators=[100],
         random_state=[20],
     ),
     'lasso':dict(
         alpha=[0.025],
     ),
     'xgboost':dict(
-        n_estimators=[2000,5000,10000],
+        n_estimators=[100,200,500],
         subsample=[0.8,0.9],
         max_depth=[1,2,3,6], 
     ),
