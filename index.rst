@@ -26,7 +26,7 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    silverkite/silverkite
    sklearn/sklearn
    misc/multi-series/multi-series
-   misc/feature-selection/feature-selection
+   misc/feature-selection/feature_selection
    misc/housing/housing
 
 .. toctree::
