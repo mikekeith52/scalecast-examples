@@ -27,6 +27,7 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    sklearn/sklearn
    misc/multi-series/multi-series
    misc/feature-selection/feature_selection
+   misc/validation/validation
    misc/housing/housing
 
 .. toctree::
