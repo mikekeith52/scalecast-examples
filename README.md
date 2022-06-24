@@ -1,4 +1,9 @@
 # scalecast-examples
+
+<p align="center">
+  <img src="logo2.png" />
+</p>
+
 - [Read the docs](https://scalecast-examples.readthedocs.io/en/latest/).  
 - [scalecast project](https://github.com/mikekeith52/scalecast).  
 - `pip install scalecast`  
@@ -55,7 +60,7 @@
 ![](./silverkite/silverkite_silverkite_27_0.png)
 
 ## Sklearn Multivariate
-- [Multiple Series? Forecast Them together with any Sklearn Model](https://towardsdatascience.com/multiple-series-forecast-them-together-with-any-sklearn-model-96319d46269)\
+- [Multiple Series? Forecast Them together with any Sklearn Model](https://towardsdatascience.com/multiple-series-forecast-them-together-with-any-sklearn-model-96319d46269)
 - [Notebook](./multivariate/multivariate.ipynb)
 
 ![](./multivariate/multivariate_multivariate_45_0.png)
@@ -72,4 +77,4 @@
 - [Notebook 1](./misc/validation/fooled_by_forecasting_models/fooled.ipynb)
 - [Notebook 2](./misc/validation/validation.ipynb)
 
-![](./misc/validation/rolling_cv.png)
+![](./misc/validation/fooled_by_forecasting_models/download.png)
