@@ -28,6 +28,7 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    misc/multi-series/multi-series
    misc/feature-selection/feature_selection
    misc/validation/validation
+   misc/anomalies/anomalies
    misc/housing/housing
 
 .. toctree::

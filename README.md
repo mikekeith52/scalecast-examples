@@ -14,6 +14,11 @@
 
 ![](./misc/introduction/misc_introduction_introduction_101_0.png)
 
+## Anomalies
+- [Notebook](./misc/anomalies/anomalies.ipynb)
+
+![](./misc/anomalies/download.png)
+
 ## ARIMA
 - [Forecast with ARIMA in Python More Easily with Scalecast](https://towardsdatascience.com/forecast-with-arima-in-python-more-easily-with-scalecast-35125fc7dc2e)
 - [Notebook](./arima/arima.ipynb)
