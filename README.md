@@ -79,7 +79,7 @@
 ## Theta
 - [Notebook](./theta/theta.ipynb)
 
-![](./theta/theta/download.png)
+![](./theta/download.png)
 
 ## Validation Methods
 - [How Not to be Fooled by Time Series Models](https://towardsdatascience.com/how-not-to-be-fooled-by-time-series-forecasting-8044f5838de3)
