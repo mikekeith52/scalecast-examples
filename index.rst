@@ -25,6 +25,7 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    rnn/rnn
    silverkite/silverkite
    sklearn/sklearn
+   theta/theta
    misc/multi-series/multi-series
    misc/feature-selection/feature_selection
    misc/validation/validation
