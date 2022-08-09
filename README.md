@@ -30,6 +30,11 @@
 
 ![](./combo/download.png)
 
+## Enplanement/COVID
+- [Notebook](./enplanement/enplanements-covid.ipynb)
+
+![](./enplanement/changepoints.png)
+
 ## Feature Reduction
 - [Variable Reduction Techniques for Time Series](https://medium.com/towards-data-science/variable-reduction-techniques-for-time-series-646743f726d4)
 - [Notebook](./misc/feature-selection/feature_selection.ipynb)
@@ -74,7 +79,7 @@
 - [Expand your Time Series Arsenal with These Models](https://towardsdatascience.com/expand-your-time-series-arsenal-with-these-models-10c807d37558)
 - [Notebook](./sklearn/sklearn.ipynb)
 
-![](./sklearn/sklearn_sklearn_51_0.png)
+![](./sklearn/mlp_stack.png)
 
 ## Theta
 - [Notebook](./theta/theta.ipynb)
