@@ -1,0 +1,6 @@
+Hourly: 1:57:52
+Daily: 24:16:42
+Weekly: 1:25:08
+Monthly: 82:46:14
+Quarterly: 26:13:12
+Yearly: 17:50:18

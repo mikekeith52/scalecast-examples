@@ -42,6 +42,7 @@
 ![](./misc/feature-selection/misc_feature-selection_feature_selection_18_1.png)
 
 ## Forecasting at Scale
+- [M4](./m4)  
 - [May the Forecasts Be with You](https://towardsdatascience.com/may-the-forecasts-be-with-you-introducing-scalecast-pt-2-692f3f7f0be5)
 - [Notebook](./misc/multi-series/multi-series.ipynb)
 
