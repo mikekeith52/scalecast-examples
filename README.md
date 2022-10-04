@@ -25,6 +25,11 @@
 
 ![](./arima/download.png)
 
+## Auto Xvar Select
+- [Notebook](./misc/auto_Xvar/auto_Xvar.ipynb)
+
+![](./misc/auto_Xvar/download.png)
+
 ## Combo
 - [Notebook](./combo/combo.ipynb)
 
