@@ -99,3 +99,8 @@
 - [Notebook 2](./misc/validation/validation.ipynb)
 
 ![](./misc/validation/fooled_by_forecasting_models/download.png)
+
+# VECM
+- [Notebook](./vecm/vecm.ipynb)
+
+![](./vecm/download.png)

@@ -26,6 +26,7 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    silverkite/silverkite
    sklearn/sklearn
    theta/theta
+   vecm/vecm
    misc/multi-series/multi-series
    misc/feature-selection/feature_selection
    misc/auto_Xvar/auto_Xvar

@@ -1,0 +1,82 @@
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 1, 'coint_rank': 0, 'deterministic': 'colo', 'seasons': 260}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 19, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 21, 'coint_rank': 0, 'deterministic': 'co', 'seasons': 260}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 10, 'coint_rank': 1, 'deterministic': 'cili', 'seasons': 30}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 41, 'coint_rank': 0, 'deterministic': 'cili', 'seasons': 30}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 33, 'coint_rank': 0, 'deterministic': 'li', 'seasons': 260}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 25, 'coint_rank': 1, 'deterministic': 'co', 'seasons': 5}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 7, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 23, 'coint_rank': 0, 'deterministic': 'co', 'seasons': 30}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 30, 'coint_rank': 1, 'deterministic': 'n', 'seasons': 260}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 14, 'coint_rank': 1, 'deterministic': 'n', 'seasons': 65}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 51, 'coint_rank': 1, 'deterministic': 'colo', 'seasons': 5}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 56, 'coint_rank': 1, 'deterministic': 'n', 'seasons': 65}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 55, 'coint_rank': 0, 'deterministic': 'li', 'seasons': 5}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 24, 'coint_rank': 0, 'deterministic': 'lo', 'seasons': 260}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 51, 'coint_rank': 0, 'deterministic': 'li', 'seasons': 0}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 65, 'coint_rank': 1, 'deterministic': 'colo', 'seasons': 260}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 7, 'coint_rank': 1, 'deterministic': 'colo', 'seasons': 0}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 2, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 30}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: No frequency information was provided with date index and no frequency could be inferred.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 3, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 5}. error: list index out of range
+WARNING:root:none of the keyword/value combos stored in the grid could be evaluated for the vecm model
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 53, 'coint_rank': 0, 'deterministic': 'n', 'seasons': 0, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 42, 'coint_rank': 1, 'deterministic': 'colo', 'seasons': 65, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 37, 'coint_rank': 1, 'deterministic': 'n', 'seasons': 30, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 51, 'coint_rank': 1, 'deterministic': 'n', 'seasons': 5, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 32, 'coint_rank': 1, 'deterministic': 'co', 'seasons': 260, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 22, 'coint_rank': 1, 'deterministic': 'co', 'seasons': 5, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 45, 'coint_rank': 0, 'deterministic': 'co', 'seasons': 0, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 59, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 40, 'coint_rank': 0, 'deterministic': 'co', 'seasons': 0, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 22, 'coint_rank': 0, 'deterministic': 'colo', 'seasons': 65, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 40, 'coint_rank': 1, 'deterministic': 'li', 'seasons': 65, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 65, 'coint_rank': 0, 'deterministic': 'li', 'seasons': 30, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 64, 'coint_rank': 1, 'deterministic': 'co', 'seasons': 0, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 28, 'coint_rank': 0, 'deterministic': 'colo', 'seasons': 30, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 28, 'coint_rank': 0, 'deterministic': 'co', 'seasons': 30, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 31, 'coint_rank': 1, 'deterministic': 'cili', 'seasons': 30, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 1, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 30, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 40, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 30, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 18, 'coint_rank': 0, 'deterministic': 'n', 'seasons': 30, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: The given frequency argument could not be matched to the given index.
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'lags': 0, 'k_ar_diff': 15, 'coint_rank': 1, 'deterministic': 'lo', 'seasons': 0, 'freq': 'B'}. error: list index out of range
+WARNING:root:none of the keyword/value combos stored in the grid could be evaluated for the vecm model
