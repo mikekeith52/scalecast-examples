@@ -26,6 +26,7 @@
 ![](./arima/download.png)
 
 ## Auto Xvar Select
+- [Auto Model Specification with ML Techniques for Time Series](https://towardsdatascience.com/auto-model-specification-with-ml-techniques-for-time-series-e7b9a90ae9d7)
 - [Notebook](./misc/auto_Xvar/auto_Xvar.ipynb)
 
 ![](./misc/auto_Xvar/download.png)
@@ -101,6 +102,7 @@
 ![](./misc/validation/fooled_by_forecasting_models/download.png)
 
 # VECM
+- [Employ a VECM to predict FANG Stocks with an ML Framework](https://medium.com/codex/employ-a-vecm-to-predict-fang-stocks-with-an-ml-framework-52f170ec68e6)
 - [Notebook](./vecm/vecm.ipynb)
 
 ![](./vecm/download.png)
