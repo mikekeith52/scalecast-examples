@@ -50,7 +50,7 @@
 ## Forecasting at Scale
 - [M4](./m4)  
 - [May the Forecasts Be with You](https://towardsdatascience.com/may-the-forecasts-be-with-you-introducing-scalecast-pt-2-692f3f7f0be5)
-- [Notebook](https://scalecast-examples.readthedocs.io/en/latest/misc/introduction/introduction.html#Scaled-Automated-Forecasting)
+- [Notebook](https://scalecast-examples.readthedocs.io/en/latest/misc/introduction/Introduction2.html#Scaled-Automated-Forecasting)
 
 ![](https://media2.giphy.com/media/vV2Mbr9v6pH1D8hiLb/giphy.gif?cid=790b7611eb56b43191020435cbedf6453a74ddc2cebd017d&rid=giphy.gif&ct=g)
 

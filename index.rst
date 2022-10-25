@@ -15,7 +15,6 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    :caption: Notebooks:  
    :hidden:  
 
-   misc/introduction/introduction
    misc/introduction/Introduction2
    arima/arima
    combo/combo
