@@ -10,7 +10,7 @@
 - Write a notebook or write an article and we will link it and give you credit
 
 ## Introduction to scalecast
-- [Notebook](./misc/introduction/introduction.ipynb)
+- [Notebook](./misc/introduction/Introduction2.ipynb)
 
 ![](./misc/introduction/download.png)
 
