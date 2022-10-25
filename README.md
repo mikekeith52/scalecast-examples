@@ -12,7 +12,7 @@
 ## Introduction to scalecast
 - [Notebook](./misc/introduction/introduction.ipynb)
 
-![](./misc/introduction/misc_introduction_introduction_101_0.png)
+![](./misc/introduction/download.png)
 
 ## Anomalies
 - [Notebook](./misc/anomalies/anomalies.ipynb)
