@@ -16,6 +16,7 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    :hidden:  
 
    misc/introduction/introduction
+   misc/introduction/Introduction2
    arima/arima
    combo/combo
    hwes/hwes
