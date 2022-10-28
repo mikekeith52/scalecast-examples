@@ -6,7 +6,7 @@
 Scalecast Example Notebooks
 ==============================================
 
-Welcome! The first notebook introduces the package, its models, and most of what it can do. The next notebooks review a specific model type available in scalecast. Finally, some auxilary examples, such as how to forecast many series in a loop, display results, and perform other periphery tasks that scalecast is capable of, are presented. Click the links on the sidebar to get started! If you would like to contribute a notebook, email mikekeith52@gmail.com and we will be sure to recognize your contributions.
+Welcome! Here we overview scalecast models and features. Check out the `introduction <https://scalecast-examples.readthedocs.io/en/latest/misc/introduction/Introduction2.html>`_ first. If you notice a typo, think something could be stated more clearly, or have any other suggestion or bug you want addressed, contact mikekeith52@gmail.com or open an `issue <https://github.com/mikekeith52/scalecast/issues/new>`_.
 
 Back to scalecast: https://scalecast.readthedocs.io/en/latest/  
 
