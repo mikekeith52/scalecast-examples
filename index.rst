@@ -24,9 +24,9 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    misc/feature-selection/feature_selection
    enplanement/enplanements-covid
    hwes/hwes
+   silverkite/silverkite
    lstm/lstm
    prophet/prophet
-   silverkite/silverkite
    misc/validation/validation
    multivariate/multivariate
    rnn/rnn
