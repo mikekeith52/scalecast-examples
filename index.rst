@@ -16,24 +16,24 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    :hidden:  
 
    misc/introduction/Introduction2
+   misc/anomalies/anomalies
    arima/arima
+   misc/auto_Xvar/auto_Xvar
+   misc/cis/cis
    combo/combo
+   misc/feature-selection/feature_selection
+   enplanement/enplanements-covid
    hwes/hwes
    lstm/lstm
-   multivariate/multivariate
    prophet/prophet
-   rnn/rnn
    silverkite/silverkite
+   misc/validation/validation
+   multivariate/multivariate
+   rnn/rnn
    sklearn/sklearn
    theta/theta
    vecm/vecm
-   misc/auto_Xvar/auto_Xvar
-   misc/feature-selection/feature_selection
-   misc/cis/cis
-   misc/validation/validation
-   misc/anomalies/anomalies
-   enplanement/enplanements-covid
-
+   
 .. toctree::
    :maxdepth: 4
    :caption: Back to scalecast:  
