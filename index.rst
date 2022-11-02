@@ -27,8 +27,9 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    sklearn/sklearn
    theta/theta
    vecm/vecm
-   misc/feature-selection/feature_selection
    misc/auto_Xvar/auto_Xvar
+   misc/feature-selection/feature_selection
+   misc/cis/cis
    misc/validation/validation
    misc/anomalies/anomalies
    enplanement/enplanements-covid

@@ -36,6 +36,11 @@
 
 ![](./combo/download.png)
 
+## Confidence Intervals
+- [Notebook](./misc/cis/cis.ipynb)
+
+![](./misc/cis/download.png)  
+
 ## Enplanement/COVID
 - [Notebook](./enplanement/enplanements-covid.ipynb)
 
