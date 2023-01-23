@@ -99,7 +99,7 @@
 ![](./theta/download.png)
 
 ## Transforming
-- [Notebook](./tranforming/series_transformer.ipynb)
+- [Notebook](./transforming/series_transformer.ipynb)
 
 ![](./transforming/download.png)
 
