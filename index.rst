@@ -30,8 +30,8 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    misc/validation/validation
    multivariate/multivariate
    rnn/rnn
-   transforming/series_transformer
    sklearn/sklearn
+   transforming/series_transformer
    theta/theta
    vecm/vecm
    
