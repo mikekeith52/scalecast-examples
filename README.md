@@ -98,6 +98,11 @@
 
 ![](./theta/download.png)
 
+## Transforming
+- [Notebook](./tranforming/series_transformer.ipynb)
+
+![](./transforming/download.png)
+
 ## Validation Methods
 - [How Not to be Fooled by Time Series Models](https://towardsdatascience.com/how-not-to-be-fooled-by-time-series-forecasting-8044f5838de3)
 - [Model Validation Techniques for Time Series](https://towardsdatascience.com/model-validation-techniques-for-time-series-3518269bd5b3)

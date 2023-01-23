@@ -32,6 +32,7 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    rnn/rnn
    sklearn/sklearn
    theta/theta
+   transforming/series_transformer
    vecm/vecm
    
 .. toctree::
