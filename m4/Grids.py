@@ -1,19 +1,36 @@
+
+arima = {
+    'order':[(2,1,0),(0,1,2),(1,1,1)],
+    'seasonal_order':[(0,1,1,12),(2,1,0,12)],
+    'trend':['n','c','t','ct'],
+}
+
 elasticnet = {
     'alpha':[i/10 for i in range(1,21)],
     'l1_ratio':[0,0.25,0.5,0.75,1],
+    'normalizer':['scale','minmax'],
 }
 
 gbt = {
     'max_depth':[2,3],
     'max_features':['sqrt',None],
-    'n_iter_no_change':[5],
+}
+
+hwes = {
+    'trend':['add','mul'],
+    'seasonal':['add','mul'],
 }
 
 knn = {
-    'n_neighbors':range(2,51,2),
+    'n_neighbors':range(2,101),
 }
 
-lightgbm = {}
+lightgbm = {
+    'n_estimators':[150,200,250],
+    'boosting_type':['gbdt','dart','goss'],
+    'max_depth':[1,2,3],
+    'learning_rate':[0.001,0.01,0.1],
+}
 
 lasso = {
     'alpha':[i/100 for i in range(1,101)],
@@ -21,12 +38,13 @@ lasso = {
 
 mlp = {
     'activation':['relu','tanh'],
-    'hidden_layer_sizes':[(50,),(50,50,50,)],
+    'hidden_layer_sizes':[(25,),(25,25,)],
     'solver':['lbfgs','adam'],
+    'normalizer':['minmax','scale'],
 }
 
 mlr = {
-    'normalizer':['minmax'],
+    'normalizer':['scale','minmax',None],
 }
 
 prophet = {
@@ -50,7 +68,8 @@ silverkite = {
 
 sgd={
     'penalty':['l2','l1','elasticnet'],
-    'l1_ratio':[0.15,0.5,0.85],
+    'l1_ratio':[0,0.15,0.5,0.85,1],
+    'learning_rate':['invscaling','constant','optimal','adaptive'],
 }
 
 svr={
@@ -64,5 +83,9 @@ theta = {
 }
 
 xgboost = {
-     'gamma':[0,3],
+     'n_estimators':[150,200,250],
+     'scale_pos_weight':[5,10],
+     'learning_rate':[0.1,0.2],
+     'gamma':[0,3,5],
+     'subsample':[0.8,0.9],
 }
