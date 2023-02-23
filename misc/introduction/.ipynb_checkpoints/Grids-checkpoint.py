@@ -1,14 +1,8 @@
+
 arima = {
     'order':[(2,1,0),(0,1,2),(1,1,1)],
     'seasonal_order':[(0,1,1,12),(2,1,0,12)],
     'trend':['n','c','t','ct'],
-}
-
-catboost = {
-    'iterations': [100, 200, 300],
-    'learning_rate': [0.01, 0.05, 0.1],
-    'depth': [4, 6, 8],
-    'l2_leaf_reg': [1, 3, 5, 7, 9],
 }
 
 elasticnet = {
@@ -23,9 +17,8 @@ gbt = {
 }
 
 hwes = {
-    'trend':['add','mul',None],
-    'seasonal':['add','mul',None],
-    'use_boxcox':[True,False],
+    'trend':['add','mul'],
+    'seasonal':['add','mul'],
 }
 
 knn = {
