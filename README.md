@@ -93,6 +93,11 @@
 
 ![](./sklearn/mlp_stack.png)
 
+## Stacking
+- [Notebook](./misc/stacking/custom_stacking.ipynb)
+
+![](./misc/stacking/Unknown.png)
+
 ## Theta
 - [Notebook](./theta/theta.ipynb)
 

@@ -31,6 +31,7 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    multivariate/multivariate
    rnn/rnn
    sklearn/sklearn
+   stacking/custom_stacking
    transforming/medium_code
    theta/theta
    vecm/vecm
