@@ -10,3 +10,6 @@ WARNING:root:distutils Version classes are deprecated. Use packaging.version ins
 WARNING:darts.models:The statsforecast module could not be imported. To enable support for the StatsForecastAutoARIMA, StatsForecastETS and Croston models, please consider installing it.
 WARNING:root:distutils Version classes are deprecated. Use packaging.version instead.
 WARNING:root:distutils Version classes are deprecated. Use packaging.version instead.
+WARNING:darts.models:The statsforecast module could not be imported. To enable support for the StatsForecastAutoARIMA, StatsForecastETS and Croston models, please consider installing it.
+WARNING:root:distutils Version classes are deprecated. Use packaging.version instead.
+WARNING:root:distutils Version classes are deprecated. Use packaging.version instead.
