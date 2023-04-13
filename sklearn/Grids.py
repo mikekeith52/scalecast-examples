@@ -8,7 +8,7 @@ arima = {
 elasticnet = {
 	'alpha':[i/10 for i in range(1,21)],
 	'l1_ratio':[0,0.25,0.5,0.75,1],
-	'normalizer':['scale','minmax',None],
+	'normalizer':['scale','minmax'],
 }
 
 gbt = {

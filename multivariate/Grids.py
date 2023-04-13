@@ -29,7 +29,7 @@ hwes = {
 }
 
 knn = {
-    'n_neighbors':range(2,101),
+    'n_neighbors':range(2,21),
 }
 
 lightgbm = {

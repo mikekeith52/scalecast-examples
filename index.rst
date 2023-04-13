@@ -27,13 +27,13 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    silverkite/silverkite
    lstm/lstm
    prophet/prophet
-   misc/validation/validation
    multivariate/multivariate
    rnn/rnn
    sklearn/sklearn
    misc/stacking/custom_stacking
    transforming/medium_code
    theta/theta
+   misc/validation/validation
    vecm/vecm
    
 .. toctree::

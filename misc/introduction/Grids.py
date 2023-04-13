@@ -9,6 +9,7 @@ catboost = {
     'learning_rate': [0.01, 0.05, 0.1],
     'depth': [4, 6, 8],
     'l2_leaf_reg': [1, 3, 5, 7, 9],
+    'verbose': [0],
 }
 
 elasticnet = {
@@ -18,7 +19,7 @@ elasticnet = {
 }
 
 gbt = {
-    'max_depth':[2,3],
+    'max_depth':[2,3,4,5],
     'max_features':['sqrt',None],
 }
 
@@ -41,6 +42,14 @@ lightgbm = {
 
 lasso = {
     'alpha':[i/100 for i in range(1,101)],
+}
+
+lstm = {
+    'lstm_layer_sizes':[(50,50,50)],
+    'activation':['relu','tanh'],
+    'dropout':[(0,0,0),(.2,.2,.2),],
+    'lags':[10,25,50],
+    'verbose':[0],
 }
 
 mlp = {
@@ -69,6 +78,27 @@ ridge = {
     'alpha':[i/100 for i in range(1,101)],
 }
 
+rnn = {
+    'layers_struct':[
+        [
+            ('LSTM',{'units':50,'activation':'relu'}),
+            ('LSTM',{'units':50,'activation':'relu'}),
+            ('LSTM',{'units':50,'activation':'relu'}),
+        ],
+        [
+            ('LSTM',{'units':50,'activation':'tanh'}),
+            ('LSTM',{'units':50,'activation':'tanh'}),
+            ('LSTM',{'units':50,'activation':'tanh'}),
+        ],
+        [
+            ('LSTM',{'units':50,'activation':'tanh','dropout':.2}),
+            ('LSTM',{'units':50,'activation':'tanh','dropout':.2}),
+            ('LSTM',{'units':50,'activation':'tanh','dropout':.2}),
+        ],
+    ],
+    'verbose':[0],
+}
+
 silverkite = {
     'changepoints':range(5),
 }
@@ -83,6 +113,10 @@ svr={
     'kernel':['linear'],
     'C':[.5,1,2,3],
     'epsilon':[0.01,0.1,0.5],
+}
+
+tbats = {
+    'seasonal_periods':[[12],None],
 }
 
 theta = {
