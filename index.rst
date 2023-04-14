@@ -19,8 +19,9 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    misc/anomalies/anomalies
    arima/arima
    misc/auto_Xvar/auto_Xvar
-   misc/cis/cis
+   misc/cis-bt/cis-bt
    combo/combo
+   misc/cis/cis
    misc/feature-selection/feature_selection
    enplanement/enplanements-covid
    hwes/hwes
