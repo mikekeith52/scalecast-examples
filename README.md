@@ -34,7 +34,7 @@
 ## Backtested Dynamic Confidence Intervals
 - [Notebook](./misc/cis-bt/cis-bt.ipynb)
 
-![](./misc/cis-bit/Unknown-2.png)
+![](./misc/cis-bt/Unknown-2.png)
 
 ## Combo
 - [Notebook](./combo/combo.ipynb)
