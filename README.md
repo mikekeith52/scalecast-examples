@@ -32,9 +32,9 @@
 ![](./misc/auto_Xvar/download.png)
 
 ## Backtested Dynamic Confidence Intervals
-- [Notebook](./cis-bt/cis-bt.ipynb)
+- [Notebook](./misc/cis-bt/cis-bt.ipynb)
 
-![](./cis_bit/Unknown-2.png)
+![](./misc/cis_bit/Unknown-2.png)
 
 ## Combo
 - [Notebook](./combo/combo.ipynb)
