@@ -69,6 +69,11 @@
 
 ![](./hwes/hwes_hwes_41_0.png)
 
+## Multivariate - Beyond the Basics
+- [Notebook](./multivariate-beyond/mv.ipynb)
+
+![](./multivariate-beyond/download.png)
+
 ## Prophet
 - [Notebook](./prophet/prophet.ipynb)
 
