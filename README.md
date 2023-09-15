@@ -113,6 +113,11 @@
 
 ![](./theta/download.png)
 
+## Transfer Learning
+- [Notebook](./transfer_learning/transfer_learning.ipynb)
+
+![](./transfer_learning/figure.png)
+
 ## Transforming
 - [Notebook](./transforming/medium_code.ipynb)
 
