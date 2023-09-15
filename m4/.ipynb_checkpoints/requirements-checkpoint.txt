@@ -1,4 +1,0 @@
-scalecast>=0.15.4
-pandas
-numpy
-scikit-learn>=1.0.0

@@ -1,7 +1,6 @@
 arima = {
     'order':[(2,1,0),(0,1,2),(1,1,1)],
     'seasonal_order':[(0,1,1,12),(2,1,0,12)],
-    'trend':['n','c','t','ct'],
 }
 
 catboost = {
@@ -101,12 +100,13 @@ rnn = {
             ('LSTM',{'units':50,'activation':'tanh','dropout':.2}),
         ],
     ],
-    'epochs':[50],
+    'epochs':[25],
     'verbose':[0],
 }
 
 silverkite = {
-    'changepoints':range(5),
+    'changepoints':[2,None],
+    'cv_max_splits':[0,3],
 }
 
 sgd={
