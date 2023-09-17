@@ -114,7 +114,8 @@
 ![](./theta/download.png)
 
 ## Transfer Learning
-- [Notebook](./transfer_learning/transfer_learning.ipynb)
+- [Sklearn Notebook](./transfer_learning/transfer_learning.ipynb)
+- [Tensorflow Notebook](./transfer_learning/transfer_learning_tf.ipynb)
 
 ![](./transfer_learning/figure.png)
 
