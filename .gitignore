@@ -1,2 +1,4 @@
 */warnings.log
-*/.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.h5
+transfer_learning/.ipynb_checkpoints/transfer_learning-checkpoint.ipynb

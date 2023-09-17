@@ -33,6 +33,8 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    rnn/rnn
    sklearn/sklearn
    misc/stacking/custom_stacking
+   transfer_learning/transfer_learning
+   transfer_learning/transfer_learning_tf
    transforming/medium_code
    theta/theta
    misc/validation/validation
