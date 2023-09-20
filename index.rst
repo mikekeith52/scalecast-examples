@@ -26,7 +26,7 @@ Back to scalecast: https://scalecast.readthedocs.io/en/latest/
    enplanement/enplanements-covid
    hwes/hwes
    silverkite/silverkite
-   lstm/lstm
+   lstm/lstm_latest
    prophet/prophet
    multivariate/multivariate
    multivariate-beyond/mv

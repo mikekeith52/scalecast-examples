@@ -81,7 +81,7 @@
 
 ## RNN
 - [Exploring the LSTM Neural Network Model for Time Series](https://towardsdatascience.com/exploring-the-lstm-neural-network-model-for-time-series-8b7685aa8cf)
-- [LSTM Notebook](./lstm/lstm.ipynb)
+- [LSTM Notebook](./lstm/lstm_latest.ipynb)
 - [RNN Notebook](./rnn/rnn.ipynb)
 
 ![](./rnn/rnn_rnn_35_0.png)
