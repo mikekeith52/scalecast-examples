@@ -1,7 +1,6 @@
 arima = {
     'order':[(2,1,0),(0,1,2),(1,1,1)],
     'seasonal_order':[(0,1,1,12),(2,1,0,12)],
-    'trend':['n','c','t','ct'],
 }
 
 catboost = {
@@ -33,15 +32,16 @@ knn = {
     'n_neighbors':range(2,101),
 }
 
+lasso = {
+    'alpha':[i/100 for i in range(1,101)],
+}
+
 lightgbm = {
     'n_estimators':[150,200,250],
     'boosting_type':['gbdt','dart','goss'],
     'max_depth':[1,2,3],
     'learning_rate':[0.001,0.01,0.1],
-}
-
-lasso = {
-    'alpha':[i/100 for i in range(1,101)],
+    'verbosity':[-1],
 }
 
 lstm = {
@@ -50,6 +50,7 @@ lstm = {
     'dropout':[(0,0,0),(.2,.2,.2),],
     'lags':[10,25,50],
     'verbose':[0],
+    'epochs':[25],
 }
 
 mlp = {
@@ -61,6 +62,10 @@ mlp = {
 
 mlr = {
     'normalizer':['scale','minmax',None],
+}
+
+naive = {
+    'seasonal':[True,False],
 }
 
 prophet = {
@@ -96,11 +101,13 @@ rnn = {
             ('LSTM',{'units':50,'activation':'tanh','dropout':.2}),
         ],
     ],
+    'epochs':[25],
     'verbose':[0],
 }
 
 silverkite = {
-    'changepoints':range(5),
+    'changepoints':[2,None],
+    'cv_max_splits':[0,3],
 }
 
 sgd={
@@ -121,6 +128,14 @@ tbats = {
 
 theta = {
     'theta':[0.5,1,1.5,2],
+}
+
+vecm = {
+    'lags':[0],
+    'normalizer':[None],
+    'k_ar_diff':[1,2,3,4,5,6,7],
+    'deterministic':["n","co","lo","li","cili","colo"],
+    'seasons':[0,12],
 }
 
 xgboost = {
