@@ -6,3 +6,4 @@ transfer_learning/.ipynb_checkpoints/transfer_learning-checkpoint.ipynb
 *.log
 *.pyc
 /multivariate-beyond/catboost_info
+/transfer_learning/catboost_info
