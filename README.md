@@ -4,7 +4,7 @@
   <img src="logo2.png" />
 </p>
 
-- [scalecast project](https://github.com/mikekeith52/scalecast).  
+- [scalecast project](https://github.com/mikekeith52/scalecast)
 - `uv pip install scalecast`  
 
 ## ARIMA
