@@ -4,20 +4,8 @@
   <img src="logo2.png" />
 </p>
 
-- [Read the docs](https://scalecast-examples.readthedocs.io/en/latest/).  
 - [scalecast project](https://github.com/mikekeith52/scalecast).  
-- `pip install scalecast`  
-- Write a notebook or write an article and we will link it and give you credit
-
-## Introduction to scalecast
-- [Notebook](./misc/introduction/Introduction2.ipynb)
-
-![](./misc/introduction/download.png)
-
-## Anomalies
-- [Notebook](./misc/anomalies/anomalies.ipynb)
-
-![](./misc/anomalies/download.png)
+- `uv pip install scalecast`  
 
 ## ARIMA
 - [Forecast with ARIMA in Python More Easily with Scalecast](https://towardsdatascience.com/forecast-with-arima-in-python-more-easily-with-scalecast-35125fc7dc2e)
@@ -46,11 +34,6 @@
 
 ![](./misc/cis/download.png)  
 
-## Enplanement/COVID
-- [Notebook](./enplanement/enplanements-covid.ipynb)
-
-![](./enplanement/changepoints.png)
-
 ## Feature Reduction
 - [Variable Reduction Techniques for Time Series](https://medium.com/towards-data-science/variable-reduction-techniques-for-time-series-646743f726d4)
 - [Notebook](./misc/feature-selection/feature_selection.ipynb)
@@ -74,22 +57,12 @@
 
 ![](./multivariate-beyond/download.png)
 
-## Prophet
-- [Notebook](./prophet/prophet.ipynb)
-
-![](./prophet/prophet_prophet_17_0.png)
-
 ## RNN
 - [Exploring the LSTM Neural Network Model for Time Series](https://towardsdatascience.com/exploring-the-lstm-neural-network-model-for-time-series-8b7685aa8cf)
 - [LSTM Notebook](./lstm/lstm_latest.ipynb)
 - [RNN Notebook](./rnn/rnn.ipynb)
 
 ![](./rnn/rnn_rnn_35_0.png)
-
-## Silverkite
-- [Notebook](./silverkite/silverkite.ipynb)
-
-![](./silverkite/silverkite_silverkite_27_0.png)
 
 ## Sklearn Multivariate
 - [Multiple Series? Forecast Them together with any Sklearn Model](https://towardsdatascience.com/multiple-series-forecast-them-together-with-any-sklearn-model-96319d46269)
@@ -136,4 +109,4 @@
 - [Employ a VECM to predict FANG Stocks with an ML Framework](https://medium.com/codex/employ-a-vecm-to-predict-fang-stocks-with-an-ml-framework-52f170ec68e6)
 - [Notebook](./vecm/vecm.ipynb)
 
-![](./vecm/download.png)
+![](./vecm/vecm.png)
