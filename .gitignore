@@ -5,3 +5,4 @@ transfer_learning/.ipynb_checkpoints/transfer_learning-checkpoint.ipynb
 .DS_Store
 *.log
 *.pyc
+/multivariate-beyond/catboost_info
